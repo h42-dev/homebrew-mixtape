@@ -3,9 +3,9 @@
 class Mixtape < Formula
   desc "Mixtape in your terminal: private chats with sealed songs"
   homepage "https://mixtape-hph42.vercel.app"
-  url "https://github.com/h42-dev/mixtape-cli/releases/download/v1.7.0/mixtape-cli-1.7.0.tgz"
-  sha256 "6fc6c42a27cd28b15b1dd11ba30ce8ba2a7924b3601b8b21123c5d6f5c6ce78b"
-  version "1.7.0"
+  url "https://github.com/h42-dev/mixtape-cli/releases/download/v1.7.5/mixtape-cli-1.7.5.tgz"
+  sha256 "1acee43fc632b14b617713825d48d54133b8290706159d59165bc7be54d27428"
+  version "1.7.5"
 
   depends_on "node"
 
